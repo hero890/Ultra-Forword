@@ -9,7 +9,7 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, InputMedi
 
 main_buttons = [[
         InlineKeyboardButton('📜 Support Group', url='https://t.me/kung_fu_panda_4_movie_hindi_dub'),
-        InlineKeyboardButton('📢 Update Channel ', url='https://t.me/Galaxy_Bots1')
+        InlineKeyboardButton('📢 Update Channel ', url='https://t.me/kung_fu_panda_4_movie_hindi_dub')
         ],[
         InlineKeyboardButton('❗️Help', callback_data='help') 
         ],[
