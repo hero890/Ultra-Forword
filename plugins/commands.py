@@ -8,7 +8,7 @@ from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, InputMediaDocument
 
 main_buttons = [[
-        InlineKeyboardButton('📜 Support Group', url='https://t.me/Galaxy_Support1123'),
+        InlineKeyboardButton('📜 Support Group', url='https://t.me/kung_fu_panda_4_movie_hindi_dub'),
         InlineKeyboardButton('📢 Update Channel ', url='https://t.me/Galaxy_Bots1')
         ],[
         InlineKeyboardButton('❗️Help', callback_data='help') 
